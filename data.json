@@ -1,0 +1,19 @@
+{
+    "data":[
+        {
+            "pic":"csillam1.png",
+            "hashtags":"#nofilter",
+            "like":2
+        },
+        {
+            "pic":"csillam2.jpg",
+            "hashtags":"#yolo",
+            "like":2
+        },
+        {
+            "pic":"csillam3.jpg",
+            "hashtags":"#sanandreas",
+            "like":2
+        }
+    ]
+}
